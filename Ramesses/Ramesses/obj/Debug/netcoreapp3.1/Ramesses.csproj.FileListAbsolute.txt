@@ -1,0 +1,11 @@
+C:\repos\github\Ramesses\Ramesses\obj\Debug\netcoreapp3.1\Ramesses.csprojAssemblyReference.cache
+C:\repos\github\Ramesses\Ramesses\obj\Debug\netcoreapp3.1\Ramesses.AssemblyInfoInputs.cache
+C:\repos\github\Ramesses\Ramesses\obj\Debug\netcoreapp3.1\Ramesses.AssemblyInfo.cs
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.exe
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.deps.json
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.runtimeconfig.json
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.runtimeconfig.dev.json
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.dll
+C:\repos\github\Ramesses\Ramesses\bin\Debug\netcoreapp3.1\Ramesses.pdb
+C:\repos\github\Ramesses\Ramesses\obj\Debug\netcoreapp3.1\Ramesses.dll
+C:\repos\github\Ramesses\Ramesses\obj\Debug\netcoreapp3.1\Ramesses.pdb

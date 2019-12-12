@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ramesses", "Ramesses\Ramesses.csproj", "{AE2ADE58-2219-46BB-AEC6-BDCB3FF1672C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2ADE58-2219-46BB-AEC6-BDCB3FF1672C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2ADE58-2219-46BB-AEC6-BDCB3FF1672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2ADE58-2219-46BB-AEC6-BDCB3FF1672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2ADE58-2219-46BB-AEC6-BDCB3FF1672C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A686A3D5-79ED-46A2-93F9-29762C3BD67F}
+	EndGlobalSection
+EndGlobal
